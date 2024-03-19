@@ -9,4 +9,6 @@ int main()
     for (i = 0; i < 5; i++) {
         cout << i << " selamat pagi dunia" << endl;
     }
+
+    cout << "nilai i terakhir : " << i << endl;
 }
